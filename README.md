@@ -1,8 +1,12 @@
-# React + Vite
+Technologies Used
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React: A JavaScript library for building user interfaces.
 
-Currently, two official plugins are available:
+Zustand: A lightweight state management library for React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+@dnd-kit: A modern drag-and-drop library for React.
+
+Tailwind CSS: A utility-first CSS framework for rapid UI development.
+
+Local Storage: Persist the calculator layout across page reloads.
+
